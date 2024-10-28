@@ -116,16 +116,16 @@
 //         return num.age > age
 //     });
 // }
-
-// // Misol
 // console.log(filterByAge([{name: "Alex", age: 25}, {name: "Bob", age: 20}], 21)); 
+
 
 // 19-misol
 // function array(arr, element) {
 //     return arr.filter(item => item === element).length;
 // }
-
-// // Misol
 // console.log(array([1, 2, 3, 1, 2, 1], 1)); 
+
+// 20-misol
+
 
 
